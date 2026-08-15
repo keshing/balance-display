@@ -1,0 +1,4 @@
+# Local DSH artifacts that must never be committed
+node_modules/
+*.log
+.DS_Store
